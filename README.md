@@ -1,2 +1,2 @@
 # google link
-Google.com
+[Link Text](google.com)
